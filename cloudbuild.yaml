@@ -1,5 +1,4 @@
 steps:
 # This step runs the unit tests on the app
 - name: 'test1'
-  id: Test1
   args: [echo,hello]
